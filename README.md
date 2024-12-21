@@ -74,7 +74,7 @@ def menu():
         elif choice == "5":
             update_quantity()
         elif choice == "6":
-            print(("Exiting the program. Goodbye!")
+            print(("Exiting the program. Goodbye!"))
             break
         else:
             print("Invalid choice. Please enter a number between 1 and 6.\n")
